@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.thogakade.db;
+package com.thogakade.inventory;
 
 import com.thogakade.inventory.*;
 import com.thogakade.controller.CustomerController;
